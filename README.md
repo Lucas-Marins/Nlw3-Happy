@@ -137,12 +137,12 @@ $ npm run typeorm migration:revert
 
 # yarn
 
-$ yarn dev
+$ yarn start
 
 
 # npm
 
-$ npm run dev
+$ npm run start
 
 ```
 
